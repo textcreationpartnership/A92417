@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Remonstrance and petition of the county of Huntington, the knights, gentlemen, clergy, freeholders, and inhabitiants. To the right honourable the Lords, and Commons assembled in Parliament, for the continuance of the church-government, and divine service, or Book of common prayer.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92417</idno><idno type="EEBO-CITATION">99859086</idno>
+  <idno type="VID">156325</idno>
+  <idno type="EEBO-PROQUEST">2240868505</idno>
+  
+            <idno type="STC">Wing R967</idno>
+            <idno type="STC">Thomason E131_5</idno>
+            <idno type="STC">ESTC R11618</idno>
+            <idno type="PROQUEST">99859086</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99859086e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92417)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156325)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E131[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Remonstrance and petition of the county of Huntington, the knights, gentlemen, clergy, freeholders, and inhabitiants. To the right honourable the Lords, and Commons assembled in Parliament, for the continuance of the church-government, and divine service, or Book of common prayer.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date and place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Printer's device on title page (McK. 268?).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England. --  Book of common prayer --  Early works to 1800.</term>
+               <term type="corporate_name">Church of England --  Controversial literature --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156325:1"/>
+            <pb facs="tcp:156325:1"/>
+            <p>THE REMONSTRANCE AND PETITION OF THE County of <hi>Huntington,</hi> the Knights, Gentlemen, Clergy, Freeholders, and Inhabitants.</p>
+            <p>To the Right Honourable the Lords, and Commons assembled in <hi>Parliament,</hi> for the continuance of the Church-government, and DIVINE SERVICE, or Book of COMMON PRAYER.</p>
+            <q>
+               <bibl>
+                  <hi>Matth. 21. vers. 13.</hi>
+               </bibl>
+               <p>My house shall be called the house of Prayer.</p>
+            </q>
+            <figure>
+               <q>IN DOMINO <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </q>
+            </figure>
+            <p>Printed in the Year. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:156325:2"/>
+            <pb n="1" facs="tcp:156325:2"/>
+            <head>TO THE RIGHT HONORABLE THE LORDS AND COMMONS ASSEMBLED IN PARLIAMENT.</head>
+            <opener>We humbly shew,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat whereas many attempts have been pra<g ref="char:EOLhyphen"/>ctised, and divers Petitions from severall Counties, and other places within this Kingdom, framed and penned in a close and subtle manner, to import more than is at first discernable by any ordinary eye, or that was impart<g ref="char:EOLhyphen"/>ed to those who signed the same, have been carried about to most places against the present forme and frame of Church-government, and Divine Service, or Common Prayers, and the hands of many per<g ref="char:EOLhyphen"/>sons of ordinary quality sollicited to the same with pretence to be presented to this Honourable Assem<g ref="char:EOLhyphen"/>bly in Parliament, and under colour of removing some innovations lately crept into the Church, and Worship of God, and reforming some abuses in the Ecclesiasticall Courts, which we conceiving and fearing not so much to aime at the taking away of the said innovations, and reformation of abuses, as tending to an absolute innvovation of Church-go<g ref="char:EOLhyphen"/>vernment, and subversion of that Order and Forme of Divine Service which hath happily continued amongst us ever since the Reformation of Religion: Out of a tender and zealous regard hereunto, we have
+<pb n="2" facs="tcp:156325:3"/>thought it our duty, not onely to disavow all such Petitions, but also to manifest our publique affecti<g ref="char:EOLhyphen"/>ons, and desires to continue the Forme of Divine Service, and Common Prayers, and the present Go<g ref="char:EOLhyphen"/>vernment of the Church, as the same have been con<g ref="char:EOLhyphen"/>tinued since the first Reformation, and stand so esta<g ref="char:EOLhyphen"/>blished by the Lawes and Statutes of this Kingdom.</p>
+            <p>For when we consider that the Forme of Divine Service expressed and conteined in the Book of Common Prayer, was with great care, piety, and sincerity revised and reduced from all former cor<g ref="char:EOLhyphen"/>ruptions and Romish Superstitions, by those holy and selected Instruments of the Reformation of Re<g ref="char:EOLhyphen"/>ligion within this Church, and was by them restored to its first purity, according as it was instituted and practised in the Primitive times, standeth confir<g ref="char:EOLhyphen"/>med, established, and enjoyned by Act of Parlia<g ref="char:EOLhyphen"/>ment, and Royall Injunctions, and hath ever since had the generall approbation of the Godly, and a publique use and continuance within this Church. And that Bishops were instituted, and have had their being and continuance ever since the first planting of Christian Religion amongst us, and the rest of the Christian world, that they were the lights and glorious Lamps of Gods Church, that so many of them sowed the seeds of Christian Religion in their bloods, which they willingly powred out therefore, that by them Christianity was rescued and preserved from utter extirpation in the fierce and most cruell Persecutions of Pagan Emperours, that to them we owe the redemption of the purity of the Gospel, and the Reformation of the Religion we now pro<g ref="char:EOLhyphen"/>fesse from Romish corruption, that many of them
+<pb n="3" facs="tcp:156325:3"/>for the propagation of that Truth became glorious Martyrs, leaving unto us an holy example, and an honourable remembrance of their faith and Christi<g ref="char:EOLhyphen"/>an fortitude, that divers of them lately, and yet li<g ref="char:EOLhyphen"/>ving with us have have been so great Assertors and Champions of our Religion against the common Enemy of Rome, and that their Government hath been so ancient, so long approved, and so often esta<g ref="char:EOLhyphen"/>blished by the Lawes and Statutes of this King<g ref="char:EOLhyphen"/>dom, and as yet nothing in their Doctrine (general<g ref="char:EOLhyphen"/>ly taught) dissonant from the Word of God, or the Articles established by Law, and that most of them are of singular learning and piety. In this case to call the Forme of Divine Service and Common Prayers Erroneous, Popish, Superstitious, Idola<g ref="char:EOLhyphen"/>trous and Blasphemous, and to call the Government by Bishops, a perpetuall vassallage, and intolerable bondage: and at the first step, and before the parties concerned be heard, to pray the present removall of them, or the utter dissolution and extirpation of them, their Courts, and their Officers, as Antichri<g ref="char:EOLhyphen"/>stian and Diabolicall, we cannot conceive to savour or relish of piety, justice, or charity, nor can we joyne with them herein, but rather humbly pray a Reformation of the abuses, and punishment of the offenders, but not the ruine or abolition of the in<g ref="char:EOLhyphen"/>nocent.</p>
+            <p>Now on the contrary, when we consider the tenour of such writings, as in the name of Petitions are spread amongst the common people, the contents of many printed Pamphlets swarming at <hi>London,</hi> and over all Countries, the Sermons preached pub<g ref="char:EOLhyphen"/>liquely in Pulpits, and other private places, and the
+<pb n="4" facs="tcp:156325:4"/>bitter invectives divulged, and commonly spoken by many disaffected persons, all of them shewing an extreme aversnesse and dislike of the pr<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>t Go<g ref="char:EOLhyphen"/>vernment of the Church, and Divine Service, or Common Prayers, dangerously exciting a disobedi<g ref="char:EOLhyphen"/>ence to the established Forme of Government and Church Service, their severall intimations of the desire of the power of the keyes, and that their con<g ref="char:EOLhyphen"/>gregations may be independent, and may execute Ec<g ref="char:EOLhyphen"/>clesiasticall censures within themselves, whereby ma<g ref="char:EOLhyphen"/>ny Sects and severall and contrary opinions will soon grow and arise, whereby great divisions and horrible factions will soon ensue thereupon, to the breach of that union, which is the sacred band and preservati<g ref="char:EOLhyphen"/>on of the common peace of Church and State: their peremptory desires and bold assuming to themselves the liberty of conscience to introduce into the Church whatsoever they affect, and to refuse and oppose all things which themselves shall dislike, and what they dislike must not onely to themselves but also to all others be scandalous and burthensom, and must be cried out upon, as great and unsupportable grievan<g ref="char:EOLhyphen"/>ces, yea though the things in themselves be never so indifferent, of never so long continuance in use and practise, and never so much desired and affected of others, so that where three or four of them be in a Parish, though five hundred others desires the use and continuance of things long used, all must be al<g ref="char:EOLhyphen"/>tered or taken away as scandals and grievances for these three or four, though to the offence of many others, and whatsoever they will have introdu<g ref="char:EOLhyphen"/>ced, must be imposed upon all others, and must by all be admitted without scandall or offence,
+<pb n="5" facs="tcp:156325:4"/>whereby multitudes of godly and wel-affected people are in some things deprived or abridged of what they desire and take comfort in, and have had a long and lawfull use and practise of, and other things imposed upon them against their wils and liking, as if no ac<g ref="char:EOLhyphen"/>compt were to be made of them, or no liberty of conscience were left unto them: which bold attempts of some few to arrogate to themselves, and to exer<g ref="char:EOLhyphen"/>cise over all others, what high presumption is it? and how great a tyranny may it prove over the mindes and consciences of men? The great increase of late of Schismaticks and Sectaries, and of persons not only separating and sequestring themselves from the publique Assembly at Common Prayers and Di<g ref="char:EOLhyphen"/>vine Service, but also opposing, and tumultuously interrupting others in the performance thereof in the publique Congregation, the frequent and many Conventicles held amongst them, and their often meetings at all publique conventions of Assizes, Sessions, Faires, Markets, and other publique As<g ref="char:EOLhyphen"/>semblies, their earnest labouring to sollicit and draw the people to them, and the generall correspondence held amongst them to advance their ends herein. Of these things we cannot but take notice, and must needs expresse our just feares, that their desires and endeavours are to worke some great change and mu<g ref="char:EOLhyphen"/>tation in the present state of the Church Govern<g ref="char:EOLhyphen"/>ment, and in the Forme of the publique Worship of God, and Divine Service, and Common Prayers.</p>
+            <p>Of the common grievances of the Kingdom, we as others, have been and are sensible, and do professe that we have just cause with joy and comfort to re<g ref="char:EOLhyphen"/>member, and with thankfulnessesse to acknowledge
+<pb n="6" facs="tcp:156325:5"/>the pious care which is already taken for the sup<g ref="char:EOLhyphen"/>pressing of the growth of Popery, the better supply of able and painfull Ministers, and the removing of all innovation, and we doubt not but in your great wisdomes you will regulate the rigour and exorbi<g ref="char:EOLhyphen"/>tancy of the Eccles<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>asticall Courts to suit with the temper of our Common Lawes, and the nature and condition of freemen: And we hope and humbly pray, that the present Forme of Church govern<g ref="char:EOLhyphen"/>ment and of Church service, and Common Prayers now established by the Statutes of this Kingdom shal be settled, and that all such as shall oppose them<g ref="char:EOLhyphen"/>selves against the same, or shall do or speak any thing in derogation or depraving of the said Divine Ser<g ref="char:EOLhyphen"/>vice, or Book of Common Prayer may without any further toleration or connivence undergo the paines, punishment, and forfeitures due therefore; and that such care shall be taken for placing of orthodox and peaceable men, Lecturers in all places, whose Do<g ref="char:EOLhyphen"/>ctrine may tend rather to sound instruction and edi<g ref="char:EOLhyphen"/>fication than lead to Schisme and Faction; all which we humbly submit to your great judgements, and shal pray to God to assist and direct you from above with his heavenly wisdom, to guide and bring all your consultations to happy conclusions.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
